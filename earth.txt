@@ -1,3 +1,5 @@
 # describe the planet we live on
 nano earth.txt
 "mostly harmless"
+
+but its okay
